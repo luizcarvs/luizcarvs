@@ -30,7 +30,6 @@ Sou um entusiasta de tecnologia, apaixonado por desenvolvimento de software e se
 
 ---
 
-## 📈 GitHub Atividade Recente
+## 📈 GitHub Commits Recente
 
-<!-- GitHub activity graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luizcarvs&theme=react-dark&hide_border=true&area=true)
+![GitHub Commits](https://streak-stats.demolab.com?user=luizcarvs&theme=dark)
